@@ -1,8 +1,12 @@
 {
   "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+    { "id": 1, "title": "Post 1" ,"created" : "2023.04.12"},
+    { "id": 2, "title": "Post 2" ,"created" : "2023.04.12"},
+    { "id": 3, "title": "Post 3" ,"created" : "2023.04.13"},
+    { "id": 4, "title": "Post 4" ,"created" : "2023.04.13"},
+    { "id": 5, "title": "Post 5" ,"created" : "2023.04.13"},
+    { "id": 6, "title": "Post 6" ,"created" : "2023.04.15"},
+    { "id": 7, "title": "Post 7" ,"created" : "2023.04.16"}
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
